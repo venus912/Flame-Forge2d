@@ -1,4 +1,4 @@
-# This repostitory has moved to the [Flame monorepo](https://github.com/flame-engine/flame/tree/main/packages/flame_forge2d)
+# This repostitory has moved to the Flame monorepo
 
 <p align="center">
   <a href="https://flame-engine.org">
@@ -10,11 +10,7 @@
   Flame Forge2D - The bridge between Flame and Forge2D
 </p>
 
-<p align="center">
-  <a title="Pub" href="https://pub.dartlang.org/packages/flame_forge2d" ><img src="https://img.shields.io/pub/v/flame_forge2d.svg?style=popout" /></a> <img src="https://github.com/flame-engine/flame_forge2d/workflows/Test/badge.svg?branch=main&event=push" alt="Test" /> <a title="Discord" href="https://discord.gg/pxrBmy4" ><img src="https://img.shields.io/discord/509714518008528896.svg" /></a>
-</p>
-
-This library acts as a bridge between [Forge2D](https://github.com/flame-engine/forge2d) (our port of Box2D) and the Flame game engine.
+This library acts as a bridge between Forge2D (our port of Box2D) and the Flame game engine.
 
 # Installation
 Add the following to the dependencies section of your `pubspec.yaml` file:
@@ -26,8 +22,6 @@ dependencies:
 ```
 
 ## Examples
-In the example folder of the repository you can find some [examples](https://github.com/flame-engine/flame_forge2d/tree/main/example), and you can also find some examples in the [Forge2D repository](https://github.com/flame-engine/forge2d/tree/main/example).
+In the example folder of the repository you can find some examples, and you can also find some examples in the Forge2D.
 
-## Documentation
-Some more documentation can be found on https://flame-engine.org/docs/#/forge2d
 
